@@ -1,0 +1,43 @@
+.amazon-text {
+    text-decoration: underline;
+    color: rgb(0, 113, 133);
+    cursor: pointer;
+}
+
+.nike-text {
+    font-size: xx-large;
+    margin-top: 30px;
+}
+
+.price-text {
+    color: rgb(0, 188, 0);
+    margin-top: -40px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.delivery-text {
+    font-size: large;
+}
+
+.add-button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 27px;
+    width: 100px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.buy-text {
+    background-color: rgb(225, 164, 28);
+    border: none;
+    height: 27px;
+    width: 100px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+
+
+
